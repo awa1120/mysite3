@@ -1,0 +1,53 @@
+.mystyle-fontsize-md{
+	fontsize: 16px;
+}
+
+.mystyle-fontsize-bold{
+	font-weight: bold;
+	font-size: 35px;
+}
+
+.sentou{
+	padding-top: 50px
+}
+
+.menu{
+	display: none;
+}
+
+.offer-item {
+}
+
+.offer-item img{
+}
+
+.offer-item img div h3{
+	font-size: 50px;
+	text-aligin: center;
+	font-family: logotypejp;
+}
+
+.logo{
+	font-family: nautilus_pompiliusregular;
+	color: white;
+	font-size: 30px;
+	text-shadow: 2px 2px 0px black;
+}
+
+@font-face {
+    font-family: 'myfont01';
+    src: url('../fonts/logotypejp_mp_b_2.1.woff') format('woff');
+}
+
+.font-myfont{
+	font-family: 'myfont01';
+	letter-spacing: 2px;
+}
+
+.panel-button{
+	display: none;
+}
+
+/*.tab-menu{
+	display: none ;
+}*/
